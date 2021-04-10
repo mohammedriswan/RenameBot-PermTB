@@ -50,7 +50,7 @@ def send_start(bot, update):
     )
 
 
-@Client.on_message(filters.command(["upgrade"]))
+@Client.on_message(filters.command(["about"]))
 def upgrade(bot, update):
     # logger.info(update)
 
