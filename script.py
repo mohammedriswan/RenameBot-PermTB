@@ -11,7 +11,7 @@ class script(object):
     NO_THUMB = "No thumbnails found!"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """🌀 Step's of Rename TG Files 🌀
+    HELP_USER = """🌀 <b>Follow These steps...<b> 🌀
 
 1) Send me the File to Rename
 2) Click 📝 <b>RENAME<b> 📝 Button
