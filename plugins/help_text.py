@@ -30,7 +30,7 @@ def help_user(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.HELP_USER,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ Contact DEV ⭕️", url="https://t.me/prgofficial")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌀 Contact my Creator 🌀", url="https://t.me/Henry_RichardSon")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
@@ -74,7 +74,7 @@ async def rename_cb(bot, update):
     
     await bot.send_message(
         chat_id=update.chat.id,
-        text="<b>File Name</b> : <code>{}</code> \n\nSelect the desired option below 😇".format(filename),
+        text="<b>File Name</b> : <code>{}</code> \n\nSelect the desired option below ✅".format(filename),
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="📝 RENAME 📝", callback_data="rename_button")],
                                                 [InlineKeyboardButton(text="✖️ CANCEL ✖️", callback_data="cancel_e")]]),
         parse_mode="html",
