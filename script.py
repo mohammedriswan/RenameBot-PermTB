@@ -2,7 +2,7 @@ class script(object):
     START_TEXT = """ <b>I'm a Simple File Renamer Bot With Permanent Thumbnail Support and I Can also Rename Unlimited Files at the Same Time 😇<b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = "CONTACT @prgofficial"
+    UPGRADE_TEXT = "🌀Please Contact @Henry_RichardSon"
     DOWNLOAD_START = "Give Me Some Time..."
     UPLOAD_START = "Starting to upload..."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @prgofficial **"
