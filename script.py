@@ -11,8 +11,11 @@ class script(object):
     NO_THUMB = "No thumbnails found!"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """It's not that complicated😅
-    
-1. Send me any Telegram File.
-2. Choose appropriate option."""
+    HELP_USER = """🌀 Step's of Rename TG Files 🌀
+
+1) Send me the File to Rename
+2) Click 📝 <b>RENAME<b> 📝 Button
+3) Enter New Name
+
+ (Extension Not Required🙅‍♂)."""
 
