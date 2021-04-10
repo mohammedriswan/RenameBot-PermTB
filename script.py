@@ -6,7 +6,7 @@ class script(object):
 
 🌀 Creator:- @Henry_RichardSon
 
-🌀 Support Group:- No Support Group for Me😞"""
+🌀 Support Group:- @Dataverse"""
     DOWNLOAD_START = "**Give Me Some Time...**"
     UPLOAD_START = "**Starting to upload...**"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Henry_RichardSon **"
