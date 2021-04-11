@@ -1,15 +1,15 @@
 class script(object):
-    START_TEXT = """ I'm a Simple File Renamer Bot With Permanent Thumbnail Support and I Can also Rename Unlimited Files at the Same Time 😇 """
+    START_TEXT = """** I'm a Simple File Renamer Bot With Permanent Thumbnail Support and I Can also Rename Unlimited Files at the Same Time 😇 **"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = """🌀 My Name:- Rename Bot
 
-🌀 Creator:- @Henry_RichardSon
+🌀 Creator:- @YouCan_CallMe_Leo
 
 🌀 Support Group:- @Dataverse"""
     DOWNLOAD_START = "**Give Me Some Time...**"
     UPLOAD_START = "**Starting to upload...**"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Henry_RichardSon **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @YouCan_CallMe_Leo **"
     SAVED_THUMB = "**Thumbnail Saved ✔ This Is Permanent**"
     DEL_THUMB = "**Thumbnail cleared succesfully!** ✔"
     NO_THUMB = "**No thumbnails found...**"
