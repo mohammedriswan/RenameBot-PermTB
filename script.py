@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """** I'm a Simple File Renamer Bot With Permanent Thumbnail Support and I Can also Rename Unlimited Files at the Same Time 😇 **"""
+    START_TEXT = """ I'm a Simple File Renamer Bot With Permanent Thumbnail Support and I Can also Rename Unlimited Files at the Same Time 😇 """
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = """🌀 My Name:- Rename Bot
