@@ -15,7 +15,7 @@ class script(object):
     NO_THUMB = "**No thumbnails found...**"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully ☺"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """**🌀 Follow These steps 🌀 
+    HELP_USER = """🌀 **Follow These steps 🌀 
     
   
 
