@@ -2,11 +2,11 @@ class script(object):
     START_TEXT = """ I'm a Simple File Renamer Bot With Permanent Thumbnail Support and I Can also Rename Unlimited Files at the Same Time 😇 """
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = """**🌀 My Name:- Rename Bot
+    UPGRADE_TEXT = """🌀 My Name:- Rename Bot
 
 🌀 Creator:- @YouCan_CallMe_Leo
 
-🌀 Support Group:- @Dataverse**"""
+🌀 Support Group:- @DataVerse"""
     DOWNLOAD_START = "**Give Me Some Time...**"
     UPLOAD_START = "**Starting to upload...**"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @YouCan_CallMe_Leo **"
@@ -15,7 +15,7 @@ class script(object):
     NO_THUMB = "**No thumbnails found...**"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully ☺"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """🌀 **Follow These steps 🌀 
+    HELP_USER = """🌀 Follow These steps 🌀 
     
   
 
@@ -23,5 +23,5 @@ class script(object):
 2) Click 📝 RENAME 📝 Button
 3) Enter New Name
 
- (Extension Not Required🙅‍♂).**"""
+ (Extension Not Required🙅‍♂)."""
 
