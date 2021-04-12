@@ -15,7 +15,7 @@ class script(object):
     NO_THUMB = "**No thumbnails found...**"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully ☺"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """🌀 Follow These steps 🌀 
+    HELP_USER = """🌀 <b>Follow These steps 🌀 
     
   
 
@@ -23,5 +23,5 @@ class script(object):
 2) Click 📝 RENAME 📝 Button
 3) Enter New Name
 
- (Extension Not Required🙅‍♂)."""
+ (Extension Not Required🙅‍♂).</b>"""
 
